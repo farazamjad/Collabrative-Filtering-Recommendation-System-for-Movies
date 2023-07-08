@@ -11,4 +11,12 @@ This repository contains a collaborative filtering recommendation system for mov
 
 ## Getting Started
 
-### Prerequisites
+### Install required libraries:
+RUN: 
+```pip install -r requirements.txt```
+### Run all cells of CollabarativeFiltering.ipynb
+### Run app.py using the command:
+```streamlit run app.py```
+## Output
+Your app will run on localhost:8501.
+There is a list of users for which a table shows 10 movies which is recommended to them and you can also see the ratings of movie in form of plot.
