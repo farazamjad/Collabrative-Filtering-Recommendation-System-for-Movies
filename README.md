@@ -27,4 +27,4 @@ RUN:
 
 Your app will run on localhost:8501.
 There is a list of users and for each user you will see a list of recommendations and also there is plot for rating of movies.
-<img src="vid.gif" alt="My Project GIF" width="500" height="600">
+![screen-gif](./vid.gif)
