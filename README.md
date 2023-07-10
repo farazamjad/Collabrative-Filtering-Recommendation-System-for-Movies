@@ -27,4 +27,4 @@ RUN:
 
 Your app will run on localhost:8501.
 There is a list of users and for each user you will see a list of recommendations and also there is plot for rating of movies.
-![screen-gif](vid.gif)
+![Alt Text]([https://media.giphy.com/media/abcdefg/example.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBkc245NGY4cjlsYjBrNjNpNnd6anpkbmtyNXFtY3pjdDVneDd5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/79UBmuNNvSt0Y0c56r/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBkc245NGY4cjlsYjBrNjNpNnd6anpkbmtyNXFtY3pjdDVneDd5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/79UBmuNNvSt0Y0c56r/giphy.gif)
